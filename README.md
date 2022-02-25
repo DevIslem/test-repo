@@ -1,3 +1,4 @@
-# Sample repo as Example
+# Example repository
 
-this is our commit
+This is a sample repository as an example 
+
