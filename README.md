@@ -1,1 +1,3 @@
-#another file to commit
+# Sample repo as Example
+
+this is our commit
